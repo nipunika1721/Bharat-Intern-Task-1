@@ -18,3 +18,6 @@ Check out the live demo -
 - Interactive elements using JavaScript.
 - Easy navigation to different sections.
 
+
+![project-12](https://github.com/nipunika1721/Bharat-Intern-Task-1/assets/135405920/1f109112-2d0c-4610-8492-6aeb552193dd)
+
